@@ -60,7 +60,7 @@
   },
   "homepage": "https://github.com/kenoxa/svelte-fragment-component#readme",
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^13.0.0",
+    "@rollup/plugin-commonjs": "^15.1.0",
     "@rollup/plugin-node-resolve": "^9.0.0",
     "@testing-library/jest-dom": "^5.7.0",
     "@testing-library/svelte": "^3.0.0",
